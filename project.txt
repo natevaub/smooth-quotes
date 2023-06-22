@@ -1,0 +1,8 @@
+The goal of this projec is to become familiar with react and typescript
+
+The goal is to present a smooth UI with inspirationnal quotes
+
+/* --- Features Idea --- */
+- YouTube widget with cool playlist
+- Add this quote to your favorite
+- Find the books relative to the quotes
