@@ -1,4 +1,0 @@
----> Adding a sort of text break when a quote has multiple lines.
-
----> Adding a sort of <Settings> panel
-

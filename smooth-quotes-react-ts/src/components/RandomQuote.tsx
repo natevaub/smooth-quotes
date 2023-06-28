@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { Quote, quotes } from "../QuotesDataBase";
+import SpotifyPlaylist from './SpotifyEmbed'
 
 export function RandomQuote() : JSX.Element {
     const generateQuote = (): Quote => {
@@ -28,6 +29,10 @@ export function RandomQuote() : JSX.Element {
             }}
             >Generate New Quote!</button>
             </div>
+			<div className="embeded">
+				<SpotifyPlaylist />
+			</div>
+			
         </div>
     )
 };
