@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { Quote, quotes } from "../QuotesDataBase";
 
 export function RandomQuote() : JSX.Element {

@@ -4,6 +4,9 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     font-family: 'Times New Roman', Times, serif;
+    height: 100vh;
+    /* margin: 0;
+    padding: 0; */
 }
 
 button {
@@ -33,12 +36,14 @@ button {
     font-size: 2vw;
     }
     .container-text p {
+        font-style: italic;
         font-size: 1vw;
     }
 }
-  
+
 @media screen and (max-width: 500px) {
     .container-text h2 {
+    font-style: italic;
     font-size: 2vh;
     }
     .container-text p {
@@ -63,6 +68,7 @@ button {
         cursor: pointer;
         position: fixed;
         bottom: 10rem;
+        height: 2vw;
 }
 
 .new-quote-button:hover {

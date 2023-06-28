@@ -9,15 +9,15 @@ export const quotes: Quote[] = [
        author: "Jim Collins"
     },
     {
-        text: "Only a warrior can endure the path of knowledge",
-        author: "Paulo Coelho"
+        text: "Only a warrior can endure the path of knowledge.",
+        author: "Paulo Coelho",
     },
     {
         text: "Confidence comes from discpline and training.",
         author: "Robert Kiyosaki"
     },
     {
-        text: "Discipline is doing what you really don't want to do so you can do what you really want to do",
+        text: "Discipline is doing what you really don't want to do so you can do what you really want to do.",
         author: "Jeff Fischer"
     },
     {
@@ -61,7 +61,7 @@ export const quotes: Quote[] = [
         author: "Vince Lombardi",
     },
     {
-        text: "The elevator to success is out of order. You’ll have to use the stairs, one step at a time.",
+        text: "The elevator to success is out of order. You'll have to use the stairs, one step at a time.",
         author: "Joe Girard",
     },
     {
@@ -69,7 +69,7 @@ export const quotes: Quote[] = [
         author: "Chris Grosser",
     },
     {
-        text: "Don't let someone else's opinion of you become your reality",
+        text: "Don't let someone else's opinion of you become your reality.",
         author: "Les Brown",
     },
 ];
